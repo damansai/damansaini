@@ -67,7 +67,7 @@ async def update_scores(content, answer_scores):
 
     return True
 
-class SelfBot(discord.Client):
+class SelfBot(discord.Client):yQDCt_WLQLuRza2-8TV2aVqoIQpEj9B-
 
     def __init__(self, update_event, answer_scores):
         super().__init__()
